@@ -3,7 +3,7 @@
 **Confidence-Gated Personal Memory: deciding whether to search a user's
 long-term memory store before paying for retrieval, in a small language model.**
 
-This is the starter repository for Prajwal's Vizuara SLM Bootcamp research
+This is the starter repository for CGPM research
 project. It combines the two topics you proposed into one experiment that can
 be finished in eight weeks:
 
