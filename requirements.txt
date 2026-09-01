@@ -1,0 +1,28 @@
+# Core numerics
+numpy>=1.26,<3.0
+scipy>=1.11
+scikit-learn>=1.4
+
+# Models
+torch>=2.2
+transformers>=4.44
+sentence-transformers>=3.0
+accelerate>=0.33
+safetensors>=0.4
+
+# Data
+datasets>=2.20
+huggingface-hub>=0.24
+
+# Retrieval index (CPU build is enough for a personal memory store)
+faiss-cpu>=1.8
+
+# Evaluation
+rouge-score>=0.1.2
+evaluate>=0.4
+
+# Plumbing
+pyyaml>=6.0
+tqdm>=4.66
+pandas>=2.2
+matplotlib>=3.8
