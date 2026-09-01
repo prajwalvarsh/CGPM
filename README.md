@@ -1,4 +1,4 @@
-# cgpm-slm-memory-starter
+# cgpm-slm-memory
 
 **Confidence-Gated Personal Memory: deciding whether to search a user's
 long-term memory store before paying for retrieval, in a small language model.**
